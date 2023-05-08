@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ademQA
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Java projects
-- 📫 How to reach me (@ademmedya)https://www.linkedin.com/in/adem-tekinel-390323265
+- 📫 How to reach me (https://www.linkedin.com/in/adem-tekinel-390323265)
 
 
 <!---
